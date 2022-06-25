@@ -62,12 +62,6 @@ Jika proses migrasi gagal, silakan import manual file database dengan nama task2
 php artisan key:generate
 ```
 
-### Generate Swagger Documentation
-
-```bash
-php artisan l5-swagger:generate
-```
-
 ### Jalankan Aplikasi
 
 ```bash
